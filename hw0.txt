@@ -1,3 +1,12 @@
 # Description of your program (part 7)
+1. Turn the string into a file
+2. Create a variable starting at 0
+3. Use object.split method to get rid of unnecessary spacings
+4. Use for loop to go through each individual token, adding to the counter after each object encountered
 
 # Reflection on writing your program (part 8)
+I cheated a bit on the last part since I copied my answer from when I took this class last year (before I dropped it...).  Also, I'm not sure if I interpreted this part of the assignment correctly, but oh well.  Without the help from last year, I definitely think I would have struggled on the assignment.  It's difficult for me to think of a solution to something like this because I'm not used to thinking in a way that a computer would understand.
+
+I liked being able to describe the instructions in English since it doesn't involve any of the actual programming yet (something I will definitely struggle with even if the solution is given to me).  I had a lot of trouble with remembering syntax for code in CSE 142.
+
+Over the next few weeks I would love to be able to enhance my critical thinking skills so that I can problem solve programs like the one above on my own.
